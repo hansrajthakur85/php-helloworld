@@ -1,3 +1,3 @@
 FROM nginx:alpine
-RUN rm -rf /usr/share/nginx/html/*
-COPY index.php /usr/share/nginx/html
+RUN rm -rf /var/www/html/*
+COPY index.php /var/www/html
