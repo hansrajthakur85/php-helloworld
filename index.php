@@ -3,6 +3,6 @@
   <title>!!!PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello Wekcome My Test Page</p>'; ?> 
+ <?php echo '<p>this is rsnc command</p>'; ?> 
  </body>
 </html>
