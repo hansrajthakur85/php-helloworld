@@ -3,6 +3,6 @@
   <title>Simple</title>
  </head>
  <body>
- <?php echo '<p>This is my simple test page created for rsync purpose</p>'; ?> 
+ <?php echo '<p>This rsync purpose</p>'; ?> 
  </body>
 </html>
