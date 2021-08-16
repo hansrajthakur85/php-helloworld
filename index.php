@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>!!!PHP Test</title>
+  <title>Simple</title>
  </head>
  <body>
- <?php echo '<p>this is rsnc command</p>'; ?> 
+ <?php echo '<p>This is my simple test page created for rsync purpose</p>'; ?> 
  </body>
 </html>
